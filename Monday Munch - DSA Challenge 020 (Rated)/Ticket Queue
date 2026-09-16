@@ -33,3 +33,8 @@ while i<n:
         c+=(t[k]-1)
     i+=1
 print(c)
+
+**ABOUT MY CODE**
+TIME :-O(n)
+SPACE :- O(1)
+APPROACH :- Array
