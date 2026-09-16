@@ -12,6 +12,11 @@ The second line contains N distinct integers A1,A2,…,AN in any order.
 **OUTPUT**
 Print a single integer — the chosen seat number.
 
+**CONSTRAINTS**
+1≤N≤1000
+1≤Ai≤109 
+All seat numbers are distinct.
+
 **CODE**
 # cook your dish here
 n=int(input())
