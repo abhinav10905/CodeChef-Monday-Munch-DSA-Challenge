@@ -9,3 +9,6 @@ The first line contains an integer N, the length of A.
 The second line containsN space-separated integers A1,A2,…,AN.
 The third line contains an integer M, the length of B.
 The fourth line contains M space-separated integers B1,B2,…,BM.
+
+**OUTPUT**
+Print the missing numbers in increasing order, separated by spaces. If no numbers are missing, print −1.
