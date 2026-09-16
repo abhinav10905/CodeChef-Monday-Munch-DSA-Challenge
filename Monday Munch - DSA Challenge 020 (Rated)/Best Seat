@@ -11,3 +11,17 @@ The second line contains N distinct integers A1,A2,…,AN in any order.
 
 **OUTPUT**
 Print a single integer — the chosen seat number.
+
+**CODE**
+# cook your dish here
+n=int(input())
+z=list(map(int,input().split()))
+a=0
+b=0
+c=(min(z)+max(z))/2
+z.sort()
+for i in z:
+    if abs(c-i)<abs(c-a):
+        a=i
+        b=abs(c-i)
+print(a)
