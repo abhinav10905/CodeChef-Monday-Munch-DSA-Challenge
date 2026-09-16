@@ -3,3 +3,9 @@ Missing Numbers
 Chef has an original array B. After some elements are removed and the remaining elements are rearranged, it becomes array A.
 Find all numbers whose frequency in A is smaller than their frequency in B. Print each such number once, in increasing order.
 It is possible that no elements were removed.
+
+**INPUT**
+The first line contains an integer N, the length of A.
+The second line containsN space-separated integers A1,A2,…,AN.
+The third line contains an integer M, the length of B.
+The fourth line contains M space-separated integers B1,B2,…,BM.
