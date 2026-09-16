@@ -25,3 +25,8 @@ for i in z:
         a=i
         b=abs(c-i)
 print(a)
+
+**ABOUT MY CODE**
+TIME :-O(n*logn)
+SPACE :- O(1)
+APPROACH :- Math, Array, Sorting 
