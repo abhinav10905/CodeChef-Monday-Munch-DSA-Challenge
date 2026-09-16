@@ -8,3 +8,6 @@ Find the available seat closest to the center position. If two seats are equally
 **INPUT**
 The first line contains an integer N, the number of available seats.
 The second line contains N distinct integers A1,A2,…,AN in any order.
+
+**OUTPUT**
+Print a single integer — the chosen seat number.
