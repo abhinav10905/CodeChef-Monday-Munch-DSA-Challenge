@@ -1,0 +1,6 @@
+**QUESTION**
+Best Seat
+You are given an array A of N distinct integers, where Ai represents the number of the i-th available seat in a cinema hall.
+The center position is defined as the average of the smallest and largest values in A.
+This position may not be an integer and may not correspond to an available seat.
+Find the available seat closest to the center position. If two seats are equally close, choose the one with the smaller seat number.
