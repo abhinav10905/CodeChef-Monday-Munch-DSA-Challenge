@@ -1,0 +1,5 @@
+**QUESTION**
+Ticket Queue
+There are N people waiting in a queue at a single ticket counter. The i-th person requires Ti units of service time.
+The counter serves the person at the front of the queue for exactly 1 unit of time. If that person still requires more service, they move to the back of the queue. Otherwise, they leave the queue.
+Given an index K (0≤K<N), find the total time elapsed until the person who was initially at index K completes their service.
