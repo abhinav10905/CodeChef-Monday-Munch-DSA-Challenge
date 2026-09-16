@@ -7,3 +7,8 @@ Given an index K (0≤K<N), find the total time elapsed until the person who was
 **INPUT**
 The first line contains two space-separated integers N and K — the number of people and the index of the target person.
 The second line contains N space-separated integers T0,T1,…,TN−1 — the service time required by each person.
+
+**CONSTRAINTS**
+1≤N≤2×105
+0≤K<N
+1≤Ti≤109
