@@ -9,3 +9,6 @@ The only line contains two integers A and B — the number of notebooks and pens
 
 **OUTPUT**
 Print a single integer — the maximum number of complete gift packs.
+
+**CONSTRAINTS**
+0≤A,B≤1000
