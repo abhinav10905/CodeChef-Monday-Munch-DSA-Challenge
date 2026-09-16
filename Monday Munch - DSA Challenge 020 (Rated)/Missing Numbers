@@ -44,3 +44,8 @@ if z==[]:
     print("-1")
 else:
     print(*z)
+
+**ABOUT MY CODE**
+TIME :-O(n*logn)
+SPACE :- O(n)
+APPROACH :- Array, Sorting 
