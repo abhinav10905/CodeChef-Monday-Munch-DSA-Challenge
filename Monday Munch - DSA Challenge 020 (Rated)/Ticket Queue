@@ -15,3 +15,21 @@ Print a single integer — the total time elapsed until the K-th person complete
 1≤N≤2×105
 0≤K<N
 1≤Ti≤109
+
+**CODE**
+# cook your dish here
+n,k=map(int,input().split())
+t=list(map(int,input().split()))
+c=0
+i=0
+while i<n:
+    if t[i]<t[k]:
+        c+=t[i]
+    elif t[i]==t[k] and i<=k:
+        c+=t[i]
+    elif i<k:
+        c+=t[k]
+    else:
+        c+=(t[k]-1)
+    i+=1
+print(c)
