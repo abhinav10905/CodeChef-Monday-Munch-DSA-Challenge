@@ -5,3 +5,5 @@ A research lab initially has X quantum chips. NVIDIA provides Y more chips for t
 During testing, exactly 2Z chips become unavailable.
 Find the number of chips remaining for further experiments.
 
+**INPUT**
+The first line contains three space-separated integers X, Y, and Z.
