@@ -8,3 +8,6 @@ Find the maximum number of pairs that can be formed.
 **INPUT**
 The first line contains an integer T — the number of test cases.
 Each of the next T lines contains a string S.
+
+**OUTPUT**
+For each test case, print the maximum number of pairs on a separate line.
