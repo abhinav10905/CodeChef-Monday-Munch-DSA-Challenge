@@ -12,6 +12,12 @@ Each of the next T lines contains a string S.
 **OUTPUT**
 For each test case, print the maximum number of pairs on a separate line.
 
+**CONSTRAINTS**
+1≤T≤100
+1≤∣S∣≤105
+S contains only 'x' and 'y'.
+The sum of ∣S∣ over all test cases does not exceed 3×105.
+
 **CODE**
 class Solution:
     def findMaximumPairs(self, students: str) -> int:
