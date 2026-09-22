@@ -15,3 +15,12 @@ Print a single integer - the number of chips remaining.
 1≤X,Y≤1000
 0≤Z≤500
 2Z≤X+Y
+
+**CODE**
+# cook your dish here
+x,y,z=map(int,input().split())
+a=(x+y)-2*z
+if a>=0:
+    print(a)
+else:
+    print(0)
