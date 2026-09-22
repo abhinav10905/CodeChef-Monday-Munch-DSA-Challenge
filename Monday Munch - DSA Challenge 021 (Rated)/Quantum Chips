@@ -10,3 +10,8 @@ The first line contains three space-separated integers X, Y, and Z.
 
 **OUTPUT**
 Print a single integer - the number of chips remaining.
+
+**CONSTRAINTS**
+1≤X,Y≤1000
+0≤Z≤500
+2Z≤X+Y
