@@ -1,1 +1,7 @@
+**QUESTION**
+Quantum Chips
+NVIDIA is working on tools that help researchers build and test quantum-computing systems.
+A research lab initially has X quantum chips. NVIDIA provides Y more chips for testing.
+During testing, exactly 2Z chips become unavailable.
+Find the number of chips remaining for further experiments.
 
