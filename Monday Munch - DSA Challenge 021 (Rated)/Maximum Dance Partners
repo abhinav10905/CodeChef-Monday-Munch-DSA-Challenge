@@ -31,3 +31,7 @@ class Solution:
             i+=1
         return c
 
+**ABOUT MY CODE**
+TIME :-O(n)
+SPACE :- O(1)
+APPROACH :- String
