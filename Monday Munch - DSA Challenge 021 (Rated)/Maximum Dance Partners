@@ -4,3 +4,7 @@ Chef is arranging a dance competition for students standing in a row. Their orde
 The order of the students cannot be changed.
 Each dance pair must contain one boy and one girl standing next to each other. Each student can belong to at most one pair.
 Find the maximum number of pairs that can be formed.
+
+**INPUT**
+The first line contains an integer T — the number of test cases.
+Each of the next T lines contains a string S.
