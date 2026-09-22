@@ -11,3 +11,17 @@ Each of the next T lines contains a string S.
 
 **OUTPUT**
 For each test case, print the maximum number of pairs on a separate line.
+
+**CODE**
+class Solution:
+    def findMaximumPairs(self, students: str) -> int:
+        # write your code here
+        c=0
+        i=0
+        while i<len(students)-1:
+            if students[i]!=students[i+1]:
+                i+=1
+                c+=1
+            i+=1
+        return c
+
