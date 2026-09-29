@@ -52,3 +52,8 @@ for i in b:
             else:
                 hash[j]-=1
 print(m)
+
+**ABOUT MY CODE**
+TIME :-O(n**2)
+SPACE :- O(n)
+APPROACH :- Array, Hashing
