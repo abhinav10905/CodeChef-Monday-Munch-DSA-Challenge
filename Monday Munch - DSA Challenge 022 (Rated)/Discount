@@ -11,3 +11,7 @@ Each of the next T lines contains a single integer N.
 
 **OUTPUT**
 For each test case, print the minimum price that can be obtained after removing exactly one digit from N.
+
+**CONSTRAINTS**
+1≤T≤105
+10≤N≤109
