@@ -26,3 +26,8 @@ if c-a>0:
     print(c-a)
 else:
     print("0")
+
+**ABOUT MY CODE**
+TIME :-O(n)
+SPACE :- O(1)
+APPROACH :- Math
