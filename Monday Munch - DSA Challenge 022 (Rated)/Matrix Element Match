@@ -15,3 +15,7 @@ Each of the next M lines contains M space-separated integers representing matrix
 **OUTPUT**
 Print TRUE if every element of B can be matched with an equal element in A, using each occurrence in A at most once.
 Otherwise, print FALSE.
+
+**CONSTRAINTS**
+1≤M≤N≤500
+−109≤Ai,j,Bi,j≤109
