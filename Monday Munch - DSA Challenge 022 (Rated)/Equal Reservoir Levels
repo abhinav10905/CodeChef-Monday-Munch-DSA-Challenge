@@ -15,3 +15,14 @@ Print a single integer — the minimum total energy required to make all water l
 **CONSTRAINTS**
 1≤N≤105
 1≤Hi≤109
+
+**CODE**
+# cook your dish here
+n=int(input())
+h=list(map(int,input().split()))
+a=min(h)*n
+c=sum(h)
+if c-a>0:
+    print(c-a)
+else:
+    print("0")
