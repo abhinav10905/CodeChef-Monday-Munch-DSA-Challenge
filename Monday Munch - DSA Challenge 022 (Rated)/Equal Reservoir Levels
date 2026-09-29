@@ -1,1 +1,6 @@
-
+**QUESTION**
+Equal Reservoir Levels
+You are given N reservoirs arranged in a chain. The i-th reservoir currently has a water level H i​.
+You may reduce the water level of any reservoir to any lower non-negative level. Reducing a reservoir's water level from X to Y costs X - Y energy units.
+Your goal is to make the water level of all reservoirs equal while minimizing the total energy spent.
+Find the minimum total energy required.
