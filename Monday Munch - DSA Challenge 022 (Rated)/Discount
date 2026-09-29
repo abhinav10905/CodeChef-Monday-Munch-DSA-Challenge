@@ -30,3 +30,8 @@ for t in range (int(input())):
         print(int(c))
     else:
         print("0")
+
+**ABOUT MY CODE**
+TIME :-O(n)
+SPACE :- O(n)
+APPROACH :- String
