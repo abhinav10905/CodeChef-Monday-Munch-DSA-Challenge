@@ -8,3 +8,8 @@ The only line contains five space-separated integers C, M, W, P, and R.
 
 **OUTPUT**
 Print YES if Chef passes the exam, otherwise print NO.
+
+**CONSTRAINTS**
+0≤C,W≤100
+1≤M,P≤10
+0≤R≤1000
