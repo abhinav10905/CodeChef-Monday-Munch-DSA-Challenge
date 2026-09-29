@@ -5,3 +5,6 @@ Chef needs a final score of at least R marks to pass. Determine whether he passe
 
 **INPUT**
 The only line contains five space-separated integers C, M, W, P, and R.
+
+**OUTPUT**
+Print YES if Chef passes the exam, otherwise print NO.
