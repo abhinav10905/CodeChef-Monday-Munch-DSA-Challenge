@@ -13,3 +13,13 @@ Print YES if Chef passes the exam, otherwise print NO.
 0≤C,W≤100
 1≤M,P≤10
 0≤R≤1000
+
+**CODE**
+# cook your dish here
+c,m,w,p,r=map(int,input().split())
+a=c*m
+a-=(w*p)
+if a>=r:
+    print("YES")
+else:
+    print("NO")
