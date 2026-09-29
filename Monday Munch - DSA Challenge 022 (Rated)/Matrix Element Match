@@ -19,3 +19,36 @@ Otherwise, print FALSE.
 **CONSTRAINTS**
 1≤M≤N≤500
 −109≤Ai,j,Bi,j≤109
+
+**CODE**
+# cook your dish here
+n=int(input())
+m=int(input())
+a=[]
+for i in range (n):
+    z=list(map(int,input().split()))
+    a.append(z)
+hash={}
+for i in a:
+    for j in i:
+        if j not in hash:
+            hash[j]=1
+        else:
+            hash[j]+=1
+b=[]
+for i in range (m):
+    z=list(map(int,input().split()))
+    b.append(z)
+m=True
+for i in b:
+    for j in i:
+        if j not in hash:
+            m=False
+            break
+        else:
+            if hash[j]==0:
+                m=False
+                break
+            else:
+                hash[j]-=1
+print(m)
