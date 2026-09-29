@@ -11,3 +11,7 @@ The first line contains an integer N — the size of matrix A.
 The second line contains an integer M — the size of matrix B.
 Each of the next N lines contains N space-separated integers representing matrix A.
 Each of the next M lines contains M space-separated integers representing matrix B.
+
+**OUTPUT**
+Print TRUE if every element of B can be matched with an equal element in A, using each occurrence in A at most once.
+Otherwise, print FALSE.
