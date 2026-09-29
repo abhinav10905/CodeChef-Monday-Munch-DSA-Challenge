@@ -11,3 +11,7 @@ The second line contains N space-separated integers H1,H2,…,HN — the initial
 
 **OUTPUT**
 Print a single integer — the minimum total energy required to make all water levels equal.
+
+**CONSTRAINTS**
+1≤N≤105
+1≤Hi≤109
