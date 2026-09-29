@@ -1,1 +1,7 @@
-
+**QUESTION**
+Matrix Element Match
+You are given an N×N matrix A and an M×M matrix B.
+Matrix B is considered present in A if every element of B can be matched with an equal element in A, regardless of its position.
+Each occurrence in A can be used only once. Therefore, if a value appears multiple times in B, it must appear at least the same number of times in A.
+For example, if 5 appears twice in B, then A must also contain at least two occurrences of 5.
+Determine whether all elements of B can be matched in A.
