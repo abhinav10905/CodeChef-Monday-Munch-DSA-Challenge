@@ -1,1 +1,4 @@
-
+**QUESTION**
+Exam Result
+Chef has received his exam results. He answered C questions correctly and W questions incorrectly. Each correct answer earns M marks, while each incorrect answer deducts P marks.
+Chef needs a final score of at least R marks to pass. Determine whether he passes the exam. His final score may be negative.
