@@ -3,3 +3,9 @@ Skip One Day
 Chef has recorded his trading results for N days in an array A. On day i, he earned Ai coins. A negative value represents a loss.
 Chef wonders what his total profit would have been if he had skipped exactly one day. Skipping a day removes its profit or loss from the total; the results of all other days remain unchanged.
 Find the maximum total profit he could have earned. The answer may be negative.
+
+**INPUT**
+The first line contains an integer T — the number of test cases.
+For each test case:
+The first line contains an integer N — the number of days.
+The second line contains N space-separated integers A1,A2,…,AN.
