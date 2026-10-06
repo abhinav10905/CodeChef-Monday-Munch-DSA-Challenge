@@ -10,3 +10,6 @@ Your task is to determine the maximum number of complete layers you can build us
 **INPUT**
 The first line of the input contains the number of test cases, T.
 For each test case, a single integer, N, represents the number of bricks available.
+
+**OUTPUT**
+For each test case print a single integer representing the maximum number of complete layers you can build in new line.
