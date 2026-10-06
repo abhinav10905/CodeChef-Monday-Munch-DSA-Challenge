@@ -32,3 +32,8 @@ for t in range (int(input())):
             c=i
     b-=c
     print(b)
+
+**ABOUT MY CODE**
+TIME :-O(n)
+SPACE :- O(1)
+APPROACH :- Math, Array
