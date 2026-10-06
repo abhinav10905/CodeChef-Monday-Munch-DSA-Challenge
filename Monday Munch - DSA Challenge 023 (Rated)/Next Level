@@ -2,3 +2,7 @@
 Next Level
 Chef is playing a video game and has collected X stars. He needs at least 60 stars to unlock the next level.
 Determine whether Chef can unlock the next level.
+
+**INPUT**
+
+The only line contains an integer X — the number of stars Chef has collected.
