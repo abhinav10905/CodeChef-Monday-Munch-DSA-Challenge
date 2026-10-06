@@ -20,3 +20,8 @@ if x>=60:
     print("YES")
 else:
     print("NO")
+
+**ABOUT MY CODE**
+TIME :-O(1)
+SPACE :- O(1)
+APPROACH :- Math
