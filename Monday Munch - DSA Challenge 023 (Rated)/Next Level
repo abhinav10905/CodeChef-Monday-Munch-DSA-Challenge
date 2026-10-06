@@ -4,5 +4,8 @@ Chef is playing a video game and has collected X stars. He needs at least 60 sta
 Determine whether Chef can unlock the next level.
 
 **INPUT**
-
 The only line contains an integer X — the number of stars Chef has collected.
+
+**OUTPUT**
+Print YES if Chef can unlock the next level, otherwise print NO.
+Each letter of the output may be printed in either uppercase or lowercase, i.e, the strings NO, no, No, and nO will all be treated as equivalent.
