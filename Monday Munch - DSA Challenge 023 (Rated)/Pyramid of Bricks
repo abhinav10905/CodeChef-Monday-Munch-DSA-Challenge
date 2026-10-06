@@ -32,3 +32,8 @@ def main():
         print(c)
 if __name__ == "__main__":
     main()
+
+**ABOUT MY CODE**
+TIME :-O(t*(root(n)))
+SPACE :- O(1)
+APPROACH :- Math
