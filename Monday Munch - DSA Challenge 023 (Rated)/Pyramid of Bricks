@@ -6,3 +6,7 @@ The 2nd layer requires 2 bricks.
 The 3rd layer requires 3 bricks.
 And so on.
 Your task is to determine the maximum number of complete layers you can build using the given N bricks.
+
+**INPUT**
+The first line of the input contains the number of test cases, T.
+For each test case, a single integer, N, represents the number of bricks available.
