@@ -17,3 +17,18 @@ For each test case print a single integer representing the maximum number of com
 **CONSTRAINTS**
 1≤T≤50
 1≤N≤109
+
+**CODE**
+def main():
+    # Write your code here
+    for t in range (int(input())):
+        n=int(input())
+        c=0
+        i=1
+        while i<=n:
+            c+=1
+            n-=i
+            i+=1
+        print(c)
+if __name__ == "__main__":
+    main()
