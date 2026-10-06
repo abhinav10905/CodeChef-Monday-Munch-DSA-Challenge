@@ -1,1 +1,8 @@
-
+**QUESTION**
+Pyramid of Bricks
+You are given N bricks and want to construct a pyramid. A pyramid is built in layers where the i-th layer (from the top) requires i bricks.
+The 1st layer requires 1 brick.
+The 2nd layer requires 2 bricks.
+The 3rd layer requires 3 bricks.
+And so on.
+Your task is to determine the maximum number of complete layers you can build using the given N bricks.
