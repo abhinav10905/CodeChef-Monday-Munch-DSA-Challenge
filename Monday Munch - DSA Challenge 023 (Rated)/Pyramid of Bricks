@@ -13,3 +13,7 @@ For each test case, a single integer, N, represents the number of bricks availab
 
 **OUTPUT**
 For each test case print a single integer representing the maximum number of complete layers you can build in new line.
+
+**CODE**
+1≤T≤50
+1≤N≤109
