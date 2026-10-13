@@ -45,3 +45,8 @@ for t in range (int(input())):
     elif sum<=m:
         c=max(c,d)
     print(c)
+
+**ABOUT MY CODE**
+TIME :-O(t*n)
+SPACE :- O(n)
+APPROACH :- Math, Array
