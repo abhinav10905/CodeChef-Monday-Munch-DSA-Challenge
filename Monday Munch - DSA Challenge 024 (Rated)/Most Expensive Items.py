@@ -2,3 +2,9 @@
 Most Expensive Items
 Chef is given the prices of N items and wants to buy exactly K of them.
 Find the maximum possible total price of the K items he can choose.
+
+**INPUT**
+The first line contains an integer T — the number of test cases.
+For each test case:
+The first line contains two space-separated integers N and K — the number of items and the number of items Chef wants to buy.
+The second line contains N space-separated integers C1,C2,…,CN — the prices of the items.
