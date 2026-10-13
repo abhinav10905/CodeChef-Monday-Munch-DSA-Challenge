@@ -19,3 +19,29 @@ For each test case, print the maximum number of sweets Chef can buy on a separat
 1≤M≤109
 1≤Ai≤109
 The sum of N over all test cases does not exceed 105.
+
+**CODE**
+# cook your dish here
+for t in range (int(input())):
+    n,m=map(int,input().split())
+    a=list(map(int,input().split()))
+    c=0
+    i=0
+    j=0
+    d=0
+    sum=0
+    while i<n:
+        if sum>m:
+            c=max(c,d-1)
+            sum-=a[j]
+            j+=1
+            d-=1
+        else:
+            sum+=a[i]
+            i+=1
+            d+=1
+    if sum>m:
+        c=max(c,d-1)
+    elif sum<=m:
+        c=max(c,d)
+    print(c)
