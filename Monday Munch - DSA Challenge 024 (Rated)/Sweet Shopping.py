@@ -12,3 +12,10 @@ The second line contains N space-separated integers A1,A2,…,AN.
 
 **OUTPUT**
 For each test case, print the maximum number of sweets Chef can buy on a separate line.
+
+**CONSTRAINTS**
+1≤T≤1000
+1≤N≤105
+1≤M≤109
+1≤Ai≤109
+The sum of N over all test cases does not exceed 105.
