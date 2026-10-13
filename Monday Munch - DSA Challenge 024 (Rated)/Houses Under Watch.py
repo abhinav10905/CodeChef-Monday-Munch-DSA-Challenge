@@ -4,3 +4,9 @@ A street has 100 houses, numbered 1 through 100 from left to right. Cops are sta
 Each cop can travel up to X house positions per minute and has Y minutes to search. Therefore, a house numbered H is within reach of a cop at house Ai if 
 ∣H−Ai∣≤X×Y. The cop's own house is also within reach.
 Devu wants to hide in a house that is outside the reach of every cop. Find the number of such houses.
+
+**INPUT**
+The first line contains an integer T — the number of test cases.
+For each test case:
+The first line contains three space-separated integers M, X, and Y.
+The second line contains M space-separated integers A1,A2,…,AM — the houses where cops are stationed.
