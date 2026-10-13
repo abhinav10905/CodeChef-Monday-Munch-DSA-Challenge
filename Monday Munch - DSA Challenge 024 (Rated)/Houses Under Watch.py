@@ -39,3 +39,8 @@ for t in range (int(input())):
         if d==0:
             c+=1
     print(c)
+
+**ABOUT MY CODE**
+TIME :-O(t*n)
+SPACE :- O(n)
+APPROACH :- Math, Array, Hash Map
