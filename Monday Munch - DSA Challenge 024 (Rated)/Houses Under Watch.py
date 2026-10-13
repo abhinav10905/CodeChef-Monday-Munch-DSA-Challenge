@@ -19,3 +19,23 @@ For each test case, print the number of safe houses on a separate line.
 1≤M,X,Y≤10
 1≤Ai≤100
 All Ai are distinct.
+
+**CODE**
+# cook your dish here
+for t in range (int(input())):
+    m,x,y=map(int,input().split())
+    a=list(map(int,input().split()))
+    hash=[0]*102
+    for i in a:
+        z=x*y
+        n=max(1,i-z)
+        hash[n]+=1
+        n=min(100,i+z)
+        hash[n+1]-=1
+    c=0
+    d=0
+    for i in range (1,101):
+        d+=hash[i]
+        if d==0:
+            c+=1
+    print(c)
