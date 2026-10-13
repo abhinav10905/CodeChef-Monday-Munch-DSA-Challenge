@@ -11,3 +11,8 @@ The second line contains N space-separated integers C1,C2,…,CN — the prices 
 
 **OUTPUT**
 For each test case, print a single integer — the total cost of the K most expensive items.
+
+**CONSTRAINTS**
+1≤T≤100
+1≤K≤N≤100
+1≤Ci≤100
