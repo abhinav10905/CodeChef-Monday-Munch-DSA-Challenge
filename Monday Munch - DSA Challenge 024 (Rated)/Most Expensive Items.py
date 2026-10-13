@@ -8,3 +8,6 @@ The first line contains an integer T — the number of test cases.
 For each test case:
 The first line contains two space-separated integers N and K — the number of items and the number of items Chef wants to buy.
 The second line contains N space-separated integers C1,C2,…,CN — the prices of the items.
+
+**OUTPUT**
+For each test case, print a single integer — the total cost of the K most expensive items.
