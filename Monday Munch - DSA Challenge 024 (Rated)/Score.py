@@ -2,3 +2,7 @@
 Score
 Chef takes part in a discus throw competition, where each player gets three throws. A player's final score is the longest distance achieved among their three throws.
 Chef's throws cover distances of A, B and C units. Find his final score.
+
+**INPUT**
+The first line contains an integer T — the number of test cases.
+Each test case contains three space-separated integers A, B, and C — the distances of Chef's three throws.
