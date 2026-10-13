@@ -9,3 +9,6 @@ The first line contains an integer T — the number of test cases.
 For each test case:
 The first line contains two space-separated integers N and M.
 The second line contains N space-separated integers A1,A2,…,AN.
+
+**OUTPUT**
+For each test case, print the maximum number of sweets Chef can buy on a separate line.
