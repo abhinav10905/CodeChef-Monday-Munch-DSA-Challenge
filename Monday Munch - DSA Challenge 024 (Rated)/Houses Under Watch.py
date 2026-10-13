@@ -13,3 +13,9 @@ The second line contains M space-separated integers A1,A2,…,AM — the houses 
 
 **OUTPUT**
 For each test case, print the number of safe houses on a separate line.
+
+**CONSTRAINTS**
+1≤T≤104
+1≤M,X,Y≤10
+1≤Ai≤100
+All Ai are distinct.
