@@ -9,3 +9,7 @@ Each test case contains three space-separated integers A, B, and C — the dista
 
 **OUTPUT**
 For each test case, print Chef's final score on a separate line.
+
+**CONSTRAINTS**
+1≤T≤100
+1≤A,B,C≤100
