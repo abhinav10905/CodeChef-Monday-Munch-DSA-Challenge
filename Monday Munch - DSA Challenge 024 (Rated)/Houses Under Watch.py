@@ -10,3 +10,6 @@ The first line contains an integer T — the number of test cases.
 For each test case:
 The first line contains three space-separated integers M, X, and Y.
 The second line contains M space-separated integers A1,A2,…,AM — the houses where cops are stationed.
+
+**OUTPUT**
+For each test case, print the number of safe houses on a separate line.
