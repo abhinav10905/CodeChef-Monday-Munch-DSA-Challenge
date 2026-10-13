@@ -19,3 +19,8 @@ For each test case, print Chef's final score on a separate line.
 for t in range (int(input())):
     a,b,c=map(int,input().split())
     print(max(a,b,c))
+
+**ABOUT MY CODE**
+TIME :-O(t)
+SPACE :- O(1)
+APPROACH :- Math
