@@ -6,3 +6,6 @@ Chef's throws cover distances of A, B and C units. Find his final score.
 **INPUT**
 The first line contains an integer T — the number of test cases.
 Each test case contains three space-separated integers A, B, and C — the distances of Chef's three throws.
+
+**OUTPUT**
+For each test case, print Chef's final score on a separate line.
