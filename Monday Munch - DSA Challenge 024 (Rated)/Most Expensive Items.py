@@ -16,3 +16,17 @@ For each test case, print a single integer — the total cost of the K most expe
 1≤T≤100
 1≤K≤N≤100
 1≤Ci≤100
+
+**CODE**
+# cook your dish here
+for t in range (int(input())):
+    n,k=map(int,input().split())
+    c=list(map(int,input().split()))
+    c.sort()
+    c=c[::-1]
+    i=0
+    d=0
+    while i<k:
+        d+=c[i]
+        i+=1
+    print(d)
