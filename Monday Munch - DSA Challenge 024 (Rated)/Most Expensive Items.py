@@ -30,3 +30,8 @@ for t in range (int(input())):
         d+=c[i]
         i+=1
     print(d)
+
+**ABOUT MY CODE**
+TIME :-O(t*n(log(n)))
+SPACE :- O(n)
+APPROACH :- Math, Array, Sorting
