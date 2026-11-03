@@ -1,7 +1,7 @@
 # CodeChef-Monday-Munch-DSA-Challenge
 
 # DSA RATING :-
-1631
+1675
 
 # LANGUAGE :-
 Python
