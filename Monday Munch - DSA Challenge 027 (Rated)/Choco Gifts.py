@@ -16,3 +16,12 @@ You may print the answer in any combination of uppercase and lowercase letters.
 1≤T≤100
 2≤N≤1000
 N is even.
+
+**CODE**
+# cook your dish here
+for t in range (int(input())):
+    n=int(input())
+    if n%4==0:
+        print("NO")
+    else:
+        print("YES")
