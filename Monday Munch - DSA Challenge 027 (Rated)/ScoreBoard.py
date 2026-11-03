@@ -6,3 +6,7 @@ Determine whether the displayed total is correct.
 **INPUT**
 The first line contains an integer T, the number of test cases.
 Each test case contains three space-separated integers A, B, and C.
+
+**OUTPUT**
+For each test case, print YES if the displayed total is correct, or NO otherwise, on a separate line.
+You may print the answer in any combination of uppercase and lowercase letters.
