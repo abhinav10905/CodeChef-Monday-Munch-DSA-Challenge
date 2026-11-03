@@ -14,3 +14,12 @@ You may print the answer in any combination of uppercase and lowercase letters.
 **CONSTRAINTS**
 1≤T≤100
 0≤A,B,C≤100
+
+**CODE** 
+# cook your dish here
+for t in range (int(input())):
+    a,b,c=map(int,input().split())
+    if a+b==c:
+        print("YES")
+    else:
+        print("NO")
