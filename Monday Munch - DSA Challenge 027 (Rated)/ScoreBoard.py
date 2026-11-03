@@ -10,3 +10,7 @@ Each test case contains three space-separated integers A, B, and C.
 **OUTPUT**
 For each test case, print YES if the displayed total is correct, or NO otherwise, on a separate line.
 You may print the answer in any combination of uppercase and lowercase letters.
+
+**CONSTRAINTS**
+1≤T≤100
+0≤A,B,C≤100
