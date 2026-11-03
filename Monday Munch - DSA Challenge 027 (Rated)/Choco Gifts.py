@@ -1,1 +1,5 @@
-
+**QUESTION**
+Choco Gifts
+A chocolate shop prepares two types of gift boxes: large boxes containing 4 chocolates each and small boxes containing 2 chocolates each.
+The shop has N chocolates, where N is even. It uses them to prepare as many large boxes as possible, then prepares small boxes with the remaining chocolates.
+A customer wants to buy a small gift box. Determine whether at least one will be available.
