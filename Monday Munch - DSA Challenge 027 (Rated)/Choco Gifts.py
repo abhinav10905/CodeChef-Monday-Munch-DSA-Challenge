@@ -7,3 +7,7 @@ A customer wants to buy a small gift box. Determine whether at least one will be
 **INPUT**
 The first line contains an integer T, the number of test cases.
 Each test case contains a single integer N, the number of chocolates.
+
+**OUTPUT**
+For each test case, print YES if at least one small gift box is available, or NO otherwise, on a separate line.
+You may print the answer in any combination of uppercase and lowercase letters.
