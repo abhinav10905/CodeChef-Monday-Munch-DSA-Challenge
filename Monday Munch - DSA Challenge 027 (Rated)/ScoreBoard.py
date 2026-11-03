@@ -23,3 +23,8 @@ for t in range (int(input())):
         print("YES")
     else:
         print("NO")
+
+**ABOUT MY CODE**
+TIME :-O(t)
+SPACE :- O(1)
+APPROACH :- Math
