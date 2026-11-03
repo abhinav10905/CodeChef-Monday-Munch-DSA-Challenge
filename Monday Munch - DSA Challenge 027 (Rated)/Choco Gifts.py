@@ -11,3 +11,8 @@ Each test case contains a single integer N, the number of chocolates.
 **OUTPUT**
 For each test case, print YES if at least one small gift box is available, or NO otherwise, on a separate line.
 You may print the answer in any combination of uppercase and lowercase letters.
+
+**CONSTRAINTS**
+1≤T≤100
+2≤N≤1000
+N is even.
