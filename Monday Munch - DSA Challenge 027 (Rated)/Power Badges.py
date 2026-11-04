@@ -17,3 +17,23 @@ For each test case, print the number of players who earn a badge on a separate l
 1≤T≤1000
 1≤N≤100
 0≤Ai≤100
+
+**CODE**
+# cook your dish here
+for t in range (int(input())):
+    n=int(input())
+    a=list(map(int,input().split()))
+    a.sort()
+    hash={}
+    for i in a:
+        if i in hash:
+            hash[i]+=1
+        else:
+            hash[i]=1
+    c=0
+    d=0
+    for i in hash:
+        c+=hash[i]
+        if c>(n/2):
+            d+=hash[i]
+    print(d)
