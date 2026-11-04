@@ -41,4 +41,4 @@ for t in range (int(input())):
 **ABOUT MY CODE**
 TIME :-O(t*n(log(n)))
 SPACE :- O(n)
-APPROACH :- Math, Array, Hash Map
+APPROACH :- Math, Array, Hash Map, Sorting
