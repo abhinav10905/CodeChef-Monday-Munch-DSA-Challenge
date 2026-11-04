@@ -7,3 +7,6 @@ For eg. see the following matrix and its diagonal sorting:
 **INPUT**
 The first line of input will contain two space separated integers N and M, denoting the no. of rows and columns in the input matrix.
 Next N lines contains M space separated integers, the elements of the matrix.
+
+**OUTPUT**
+Output N lines, each containing M space separated integers, the elements of diagonally sorted matrix.
