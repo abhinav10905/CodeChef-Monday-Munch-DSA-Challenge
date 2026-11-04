@@ -10,3 +10,7 @@ Next N lines contains M space separated integers, the elements of the matrix.
 
 **OUTPUT**
 Output N lines, each containing M space separated integers, the elements of diagonally sorted matrix.
+
+**CONSTRAINTS**
+1≤N,M≤100
+The elements of the matrix are non-negative and won't exceed 1000.
