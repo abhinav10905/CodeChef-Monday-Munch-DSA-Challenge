@@ -35,3 +35,8 @@ for i in range (n-1,-1,-1):
         l[i][j]=hash[i-j].pop()
 for i in l:
     print(*i)
+
+**ABOUT MY CODE**
+TIME :-O(t*n(log(n)))
+SPACE :- O(n)
+APPROACH :- Math, Array, Hash Map, Sorting
