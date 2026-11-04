@@ -37,3 +37,8 @@ for t in range (int(input())):
         if c>(n/2):
             d+=hash[i]
     print(d)
+
+**ABOUT MY CODE**
+TIME :-O(t*n(log(n)))
+SPACE :- O(n)
+APPROACH :- Math, Array, Hash Map
