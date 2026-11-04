@@ -12,3 +12,8 @@ The second line contains N space-separated integers A1,A2,…,AN, the power leve
 
 **OUTPUT**
 For each test case, print the number of players who earn a badge on a separate line.
+
+**CONSTRAINTS**
+1≤T≤1000
+1≤N≤100
+0≤Ai≤100
