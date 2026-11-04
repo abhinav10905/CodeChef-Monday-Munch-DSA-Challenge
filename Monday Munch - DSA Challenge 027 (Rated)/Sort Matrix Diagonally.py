@@ -14,3 +14,24 @@ Output N lines, each containing M space separated integers, the elements of diag
 **CONSTRAINTS**
 1≤N,M≤100
 The elements of the matrix are non-negative and won't exceed 1000.
+
+**CODE**
+n,m=map(int,input().split())
+l=[]
+for i in range (n):
+    a=list(map(int,input().split()))
+    l.append(a)
+hash={}
+for i in range (0,n):
+    for j in range (0,m):
+        if (i-j) in hash:
+            hash[i-j].append(l[i][j])
+        else:
+            hash[i-j]=[l[i][j]]
+for i in hash:
+    hash[i].sort()
+for i in range (n-1,-1,-1):
+    for j in range (m-1,-1,-1):
+        l[i][j]=hash[i-j].pop()
+for i in l:
+    print(*i)
