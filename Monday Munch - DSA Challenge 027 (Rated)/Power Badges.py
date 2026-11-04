@@ -9,3 +9,6 @@ The first line contains an integer T, the number of test cases.
 For each test case:
 The first line contains an integer N, the number of players.
 The second line contains N space-separated integers A1,A2,…,AN, the power levels of the players.
+
+**OUTPUT**
+For each test case, print the number of players who earn a badge on a separate line.
